@@ -1,0 +1,2 @@
+pyyapper>=1.9.0
+python-dotenv  # optional; pyyapper already loads .env
